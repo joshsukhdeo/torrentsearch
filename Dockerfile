@@ -11,4 +11,4 @@ COPY . /usr/src/app
 
 FROM node:8.9.3-alpine as app
 COPY --from=build /usr/src/app /usr/src/app
-ENTRYPOINT [ "/usr/src/app/bin/torrentflix" ]
+ENTRYPOINT [ "/usr/src/app/bin/anujyadav" ]

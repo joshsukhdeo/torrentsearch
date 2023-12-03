@@ -1,4 +1,4 @@
-# Torrentflix [![Travis](https://api.travis-ci.org/ItzBlitz98/torrentflix.svg?branch=master)](https://travis-ci.org/ItzBlitz98/torrentflix)
+# anujyadav
 
 A cli tool for searching torrent sites and streaming using peerflix.
 
@@ -22,10 +22,10 @@ Install peerflix if you haven't already:
 npm install -g peerflix
 ```
 
-Then install torrentflix:
+Then install anujyadav:
 
 ```
-npm install -g torrentflix
+npm install -g anujyadav
 ```
 
 ## Install (manual)
@@ -38,7 +38,7 @@ npm install -g peerflix
 Clone the repository:
 
 ```
-git clone git@github.com:ItzBlitz98/torrentflix.git
+git clone git@github.com:whoisashish/anujyadav.git
 ```
 
 Install dependencies:
@@ -61,26 +61,26 @@ Now you can run the executable inside the bin folder.
 ## Usage
 To run the app run:
 ```
-$ torrentflix
+$ anujyadav
 ```
 
 ## Cli arguments
 
-Torrentflix has some handy cli arguements you can see them using the help flag.
+anujyadav has some handy cli arguements you can see them using the help flag.
 ```
-$ torrentflix --help
+$ anujyadav --help
 ```
 
 ## History
-Torrentflix can save a history of watched torrents if enabled.
+anujyadav can save a history of watched torrents if enabled.
 
 Clearing the history can be done with the --clear flag ex:
 ```
-$ torrentflix --clear
+$ anujyadav --clear
 ```
 
 ## Subtitles
-By default subtitles are disabled but you can enable them by running `torrentflix --config=nano` and setting *use_subtitle* to true. You can also change *subtitle_language* to one of [this list](https://github.com/divhide/node-subtitler/blob/master/langs.dump.txt), just be sure to use the three letter code.
+By default subtitles are disabled but you can enable them by running `anujyadav --config=nano` and setting *use_subtitle* to true. You can also change *subtitle_language* to one of [this list](https://github.com/divhide/node-subtitler/blob/master/langs.dump.txt), just be sure to use the three letter code.
 
 
 ## License
