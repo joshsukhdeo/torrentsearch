@@ -1,7 +1,7 @@
 {
   "name": "anujyadav",
   "description": "CLI to search torrent sites and stream with peerflix.",
-  "version": "9.0.7",
+  "version": "1.0.0",
   "homepage": "https://github.com/whoisashish/anujyadav",
   "author": {
     "name": "whoisashish"
