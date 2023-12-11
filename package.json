@@ -1,17 +1,17 @@
 {
-  "name": "anujyadav",
+  "name": "ashishyadav",
   "description": "CLI to search torrent sites and stream with peerflix.",
   "version": "1.0.1",
-  "homepage": "https://github.com/whoisashish/anujyadav",
+  "homepage": "https://github.com/whoisashish/ashishyadav",
   "author": {
     "name": "whoisashish"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/whoisashish/anujyadav.git"
+    "url": "https://github.com/whoisashish/ashishyadav.git"
   },
   "bugs": {
-    "url": "https://github.com/whoisashish/anujyadav/issues"
+    "url": "https://github.com/whoisashish/ashishyadav/issues"
   },
   "licenses": [
     {
@@ -19,7 +19,7 @@
     }
   ],
   "bin": {
-    "anujyadav": "bin/anujyadav"
+    "ashishyadav": "bin/ashishyadav"
   },
   "engines": {
     "node": ">= 0.8.0"
